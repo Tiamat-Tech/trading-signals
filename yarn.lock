@@ -235,10 +235,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@types/big.js@6.1.0":
-  version "6.1.0"
-  resolved "https://registry.npmjs.org/@types/big.js/-/big.js-6.1.0.tgz#b0ac668074fe3263d54a76d498bc00713d13210f"
-  integrity sha512-tP9A3sPGV0lttlPRVBOEJisNL5iYzNzH2aCU/IE06i+fq6ON8gAiNXaUac8Z2B6XL5QewSljkuWeCUdjzDnOkg==
+"@types/big.js@6.1.1":
+  version "6.1.1"
+  resolved "https://registry.npmjs.org/@types/big.js/-/big.js-6.1.1.tgz#c2be5e81e0cf0c1c31704e3b12f750712f647414"
+  integrity sha512-Zns+nT0hj96ie+GDbL5NeHxhL4wNz8QMxCHqBvxgc4x0hhgQ/o92rPwqxvPBhY3ZYnH8TJGw/8oCkjhOy2Rfzw==
 
 "@types/jasmine@3.7.4":
   version "3.7.4"
