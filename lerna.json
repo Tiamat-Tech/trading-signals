@@ -2,6 +2,7 @@
   "command": {
     "publish": {
       "allowBranch": "main",
+      "changelogPreset": "conventional-changelog-conventionalcommits",
       "conventionalCommits": true,
       "message": "[skip ci] chore: Publish"
     }
