@@ -1,6 +1,6 @@
 {
   "name": "@typedtrader/candles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Labeled market-condition candle datasets (uptrend, downtrend, sideways, …) for tests and docs.",
   "type": "module",
   "types": "dist/src/index.d.ts",
@@ -26,6 +26,6 @@
     "test:units": "vitest run"
   },
   "devDependencies": {
-    "@typedtrader/exchange": "0.2.5"
+    "@typedtrader/exchange": "0.3.0"
   }
 }
